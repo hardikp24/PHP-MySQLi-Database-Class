@@ -1,4 +1,4 @@
-MysqliDb
+# MysqliDb
 > *"Simple MySQLi wrapper and object mapper with prepared statements."*
 ---
 
