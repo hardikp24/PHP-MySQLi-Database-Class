@@ -1,5 +1,6 @@
 MysqliDb -- Simple MySQLi wrapper and object mapper with prepared statements
-<hr>
+---
+
 ### Table of Contents
 
 **[Initialization](#initialization)**  
